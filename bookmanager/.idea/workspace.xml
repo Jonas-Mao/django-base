@@ -5,12 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23e8f99d-b376-418a-8346-42f90daf6b6f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/book/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/bookmanager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/static/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookmanager02/templates/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmanager/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmanager/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmanager/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/../bookmanager02/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +65,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/Jonas.Mao/PycharmProjects/django_base/bookmanager",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Jonas.Mao/PycharmProjects/django_base&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
     </key>
@@ -93,7 +131,9 @@
       <updated>1711467382884</updated>
       <workItem from="1711467384629" duration="13000" />
       <workItem from="1711467408742" duration="1341000" />
-      <workItem from="1711469497768" duration="8578000" />
+      <workItem from="1711469497768" duration="9341000" />
+      <workItem from="1711524799150" duration="1235000" />
+      <workItem from="1711527129307" duration="318000" />
     </task>
     <servers />
   </component>
