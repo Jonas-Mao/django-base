@@ -18,6 +18,7 @@ python manage.py migrate            #执行迁移文件
 内容发布的部分由网站的管理员负责查看、添加、修改、删除数据
 Django能够根据定义的模型类自动地生成管理模块
 
+--------------------------------------------
 使用Django的管理模块，需要按照如下步骤操作：
 1、管理界面本地化  (settings.py):
 LANGUAGE_CODE = 'zh-Hans'
@@ -33,8 +34,33 @@ class BookInfo(models.Model):
     ...
     def __str__(self):
         return self.name
+--------------------------------------------
 
+添加模版  (settings.py):
+TEMPLATES = [
+    ...
+    'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        
+静态资源  (settings.py):    #比较特殊，无需添加路由
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
+
+站点名称 
+( 1 - apps.py):
+class BookConfig(AppConfig):
+    name = 'book'
+    verbose_name = '书籍管理'
+
+( 2 - settings.py):
+INSTALLED_APPS = [
+    ...
+    'book.apps.BookConfig',     #使用方案2这种方式
+     
 '''
+
+
 class BookInfo(models.Model):
     name = models.CharField(max_length=10)
 
