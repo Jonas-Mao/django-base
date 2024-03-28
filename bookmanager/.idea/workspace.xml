@@ -5,41 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23e8f99d-b376-418a-8346-42f90daf6b6f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/bookmanager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/book/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/bookmanager/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/static/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmanager02/templates/book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmanager/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmanager/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/../bookmanager02/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/bookmanager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/dataSources/2a524433-2066-4566-9af2-108214e8fa75/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/book/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/bookmanager/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/bookmanager/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/bookmanager/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/bookmanager/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmanager02/manage.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +128,8 @@
       <workItem from="1711469497768" duration="9341000" />
       <workItem from="1711524799150" duration="1235000" />
       <workItem from="1711527129307" duration="318000" />
+      <workItem from="1711593179918" duration="18000" />
+      <workItem from="1711593391764" duration="287000" />
     </task>
     <servers />
   </component>
